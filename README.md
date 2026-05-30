@@ -7,9 +7,9 @@
 **Status:** Fully working configuration for macOS Big Sur
 
 **BOOTLOADER SPECIFICATIONS:**
-- OpenCore Version: 0.9.9 (Release REL-099-2024-03-11)
+- OpenCore v1.0.7 (Release 2026-03-20)
 - Target SMBIOS: iMac13,2
-- Video Kext: WhateverGreen v1.6.5
+- Video Kext: WhateverGreen v1.7.1
 - NVRAM Boot-Args: keepsyms=1 debug=0x100 alcid=3 agdpmod=ignore -wegswitchgpu -cdfon -xcpm
 
 **HARDWARE CONFIGURATION:**
