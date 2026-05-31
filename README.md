@@ -29,4 +29,5 @@
 **IMPORTANT BOOT NOTES:**
 - Generate new serial numbers in PlatformInfo -> Generic before using this EFI.
 - Required BIOS Settings: CSM (Disabled), Fast Boot (Disabled), OS Type (Other OS / Windows 8 UEFI).
-- AMD RX 580 and Intel HD 4000 work natively in Big Sur. No post-install root patches required.
+- AMD RX 580 work natively in macOS Sequoia. No post-install root patches required.
+- Intel HD 4000 work natively in Big Sur. No post-install root patches required.
