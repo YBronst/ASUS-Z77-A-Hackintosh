@@ -28,5 +28,5 @@
 
 **IMPORTANT BOOT NOTES:**
 - Generate new serial numbers in PlatformInfo -> Generic before using this EFI.
-- Required BIOS Settings: VT-d (Disabled), CSM (Disabled), Fast Boot (Disabled), OS Type (Other OS / Windows 8 UEFI).
+- Required BIOS Settings: CSM (Disabled), Fast Boot (Disabled), OS Type (Other OS / Windows 8 UEFI).
 - AMD RX 580 and Intel HD 4000 work natively in Big Sur. No post-install root patches required.
