@@ -23,7 +23,7 @@
 
 **macOS COMPATIBILITY:**
 - Installed OS: macOS Catalina 10.15.7 (19H2) | Released: Sept 24, 2020
-- Native Support: Up to macOS Big Sur 11.7.10 (20G1427) | Released: Sept 11, 2023
+- Native Support: Up to macOS Big Sur 11.7.10 (20G1427) | Released: Sept 11, 2023 with SMBIOS change
 - Patch Support via OCLP: macOS 13 Ventura / macOS 14 Sonoma / macOS 15 Sequoia
 
 **IMPORTANT BOOT NOTES:**
