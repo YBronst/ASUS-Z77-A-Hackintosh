@@ -1,4 +1,5 @@
 # ASUS-Z77-A-Hackintosh
+<img width="672" height="489" alt="asus-z77-a front variety 1576684641045" src="https://github.com/user-attachments/assets/b1764cc7-932d-4f24-946e-a5503b13e03e" />
 
 ## EFI BUILD: ASUS Z77-A + Intel i7-3770K (Ivy Bridge)
 
